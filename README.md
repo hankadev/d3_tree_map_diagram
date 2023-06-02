@@ -2,7 +2,7 @@
 
 This is my implementation of [Free Code Camp's](https://www.freecodecamp.org/) Visualize Data with a Treemap Diagram.
 
-[view in browser](https://hanny21.github.io/d3_tree_map_diagram/) 
+[view in browser](https://hankadev.github.io/d3_tree_map_diagram/) 
 
 ## Objective
 
